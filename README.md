@@ -1,13 +1,1 @@
-# Learn_AI
-通往人工智能之路
-
-参考
-Robinwho/Deep-Learning  https://github.com/Robinwho/Deep-Learning
-有哪些 python 的在线练习题或编程挑战的网站？  https://www.zhihu.com/question/265662120
-Python 的练手项目有哪些值得推荐？  https://www.zhihu.com/question/29372574
-
-一 数学基础
-
-
-二 Python
-py.CheckiO  https://py.checkio.org/
+<div><div style=""><font size="4"><b>Learn_AI</b></font></div><div style=""><font size="4">通往人工智能之路</font></div><div style=""><span style="font-size: 14px;"><br></span></div><div style=""><span style="font-size: 14px;">参考</span></div><div style=""><ul><li><a href="https://github.com/Robinwho/Deep-Learning" se_prerender_url="complete" style="font-size: 14px;">Robinwho/Deep-Learning</a></li><li><a href="https://www.zhihu.com/question/265662120" se_prerender_url="complete" style="font-size: 14px;">有哪些 python 的在线练习题或编程挑战的网站？</a><span style="font-size: 14px;">&nbsp;&nbsp;</span></li><li><a href="https://www.zhihu.com/question/29372574" se_prerender_url="complete" style="font-size: 14px;">Python 的练手项目有哪些值得推荐？</a><span style="font-size: 14px;">&nbsp;&nbsp;</span></li></ul></div><div style=""><span style="font-size: 14px;"><br></span></div><div style=""><font size="4"><b>一 数学基础</b></font></div><div style=""><span style="font-size: 14px;"><br></span></div><div style=""><span style="font-size: 14px;"><br></span></div><div style=""><font size="4"><b>二 Python</b></font></div><div style=""><ul><li><a href="https://py.checkio.org/" se_prerender_url="complete" style="font-size: 14px;">py.CheckiO</a><span style="font-size: 14px;">&nbsp;&nbsp;</span></li></ul></div><div style="font-size: 14px; font-family: Verdana; color: rgb(0, 0, 0);"><br></div><!--signcontent 35.com end--></div> 
